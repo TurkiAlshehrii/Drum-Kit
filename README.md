@@ -1,6 +1,6 @@
 # Hey!
 
-- use this sipmle project to explain concept of (DOM)
+- build this sipmle project to explain concept of (DOM)
 ----------------------
 i use in this project:
 
